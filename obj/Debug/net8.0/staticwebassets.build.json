@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KbyHx8LW6Sp2K3onh8rrgr+bkopR7G+R2SmFPjrRsMQ=",
+  "Source": "apiStockapi",
+  "BasePath": "_content/apiStockapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
